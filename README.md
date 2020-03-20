@@ -1,2 +1,2 @@
 # Colon-Image-Segmentation-
-Segmentation scheme to differentiate normal and abnormal colon cells
+Segmentation scheme with naive bayes and random forest to differentiate normal and abnormal colon cells
