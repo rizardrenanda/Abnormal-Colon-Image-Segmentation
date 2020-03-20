@@ -1,0 +1,15 @@
+Guidelines:
+0. Install ImageJ and NetBeans
+1. Make a new folder in ImageJ/plugins.
+2. Change the paths in add_training.java, classify_data_2.java and train_data_2.java using NetBeans.
+3. Compile all of the files. 
+4. Copy the class from each file which you have already compiled to 
+   the new folder which you have already made in ImageJ/plugins.
+5. Open ImageJ and then drag and drop the image you want to add.
+   ("The image should be from the dataset folder I have given to you") 
+6. Change the image from RGB to grayscale (8 bit).
+7. Run add_training in plugins.
+8. Run train_data_2 to train the data. 
+9. Drag and drop the image you want to classify and change it to grayscale.
+   ("The image should be from the dataset folder I have given to you") 
+10. Run classify_data_2 in plugins to test the image.
